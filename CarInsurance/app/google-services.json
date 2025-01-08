@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "316798480622",
+    "project_id": "abzhehicleinsurance",
+    "storage_bucket": "abzhehicleinsurance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316798480622:android:4b63062f6121babd6ec3ff",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.abzinsurance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbfP3nQ5sfk7uVOeROgRQteSeGFem0LhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316798480622:android:d66f914e820ad0d26ec3ff",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.abzvehicleinsurance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbfP3nQ5sfk7uVOeROgRQteSeGFem0LhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316798480622:android:b26deb27c0e094606ec3ff",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.carinsurance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbfP3nQ5sfk7uVOeROgRQteSeGFem0LhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
